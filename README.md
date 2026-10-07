@@ -1,0 +1,2 @@
+# premium-crossbow-prod-001-crossbow-prod-nut-trigger-cr
+Tracking crossbow prod components shouldn't consume your entire workflow. The Crossbow Prod &amp; Nut Trigger Craft Lab is a purpose-built Notion system that centralizes every specification, assembly note, and trigger mechanism detail in one searchable, organized space.  Stop scattered spreadsheets and forgotten measurements. This template gives crossb
